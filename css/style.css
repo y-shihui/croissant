@@ -19,3 +19,10 @@ p {
   color: chocolate;
   font-size: 15px;
 }
+
+img {
+  border-radius: 10px;
+  display: block;
+  margin: 0 auto;
+  max-width: 100%;
+}
